@@ -1,7 +1,7 @@
 ---
 title: Home
-feature_text: ''
-feature_image: ''
+feature_text: "## Best Cities toi Live in the USA"
+feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
 excerpt: Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects.
   Rather than starting from scratch, this boilerplate is designed to get the ball
   rolling immediately. Install it, configure it, tweak it, push it.
