@@ -1,4 +1,14 @@
 ---
 label: Destinations  Posts
 hide_body: false
-fields: []
+fields:
+- name: best_cities_in_the_usa_to_move
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Best Cities in the USA to move
+  description: top US cities to live
