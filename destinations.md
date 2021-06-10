@@ -1,6 +1,6 @@
 ---
 title: Destinations
-layout: categories
+layout: destinations
 excerpt: Category index
 aside: true
 
