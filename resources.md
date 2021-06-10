@@ -1,9 +1,9 @@
 ---
 title: Resources
-feature_text: 'A demo of Markdown and HTML includes
+feature_text: |2-
 
-'
-feature_image: https://picsum.photos/2560/600?image=873
+  ## Best Cities toi Live in the USA
+feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
 excerpt: A demo of Markdown and HTML includes
 aside: true
 
