@@ -1,6 +1,7 @@
 ---
-title: Categories
+title: Destinations
 layout: categories
-excerpt: "Category index"
+excerpt: Category index
 aside: true
+
 ---
