@@ -1,6 +1,6 @@
 ---
 title: Reviews
-layout: destinations
+layout: reviews
 excerpt: Category index
 aside: true
 
