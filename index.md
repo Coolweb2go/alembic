@@ -18,10 +18,7 @@ I created this travel guide to help Californians looking for a new city or town 
 * Boston, Massachusetts
 * Portland,Oregon
 * Denver, Colorado
-* Solid **typographic framework** from [Sassline](https://sassline.com/)
-* Configurable navigation via a single file
-* Modular Jekyll components
-* Post category support in the form of a single post index page grouped by category
+* Fayetteville,Arkansas
 * Built in live search using JavaScript
 * **Contact form** built in using [Formspree](https://formspree.io/)
 * Designed with [**Siteleaf**](https://www.siteleaf.com/) in mind
