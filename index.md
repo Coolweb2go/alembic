@@ -17,7 +17,7 @@ I created this travel guide to help Californians looking for a new city or town 
 * Colorado Springs, CO
 * Boston, Massachusetts
 * Portland,Oregon
-* Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
+* Denver, Colorado
 * Solid **typographic framework** from [Sassline](https://sassline.com/)
 * Configurable navigation via a single file
 * Modular Jekyll components
