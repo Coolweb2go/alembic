@@ -2,9 +2,8 @@
 title: Contact
 feature_text: " ## Best Cities toi Live in the USA"
 feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
-excerpt: Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects.
-  Rather than starting from scratch, this boilerplate is designed to get the ball
-  rolling immediately. Install it, configure it, tweak it, push it.
+excerpt: This site was created to guide Californians who want to move to a more affordable
+  state
 
 ---
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
