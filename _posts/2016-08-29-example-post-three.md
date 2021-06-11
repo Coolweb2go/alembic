@@ -24,4 +24,12 @@ So as of this update – the US has given a green light for vaccinated Americans
 
 For those who cannot get vaccinated, the CDC further offers advice on how to travel domestically as safely as possible, recommending testing and/or quarantining measures. Read the official CDC domestic travel guidance here.
 
-The modern pot still is a descendant of the alembic, an earlier distillation device.
+### **Consider a Staycation in 2021**
+
+You don’t necessarily have to drive across the country to enjoy the fun of a road trip. Rediscover your own back yard! You likely have an inside advantage of local knowledge of some lesser-known spots that are within a tankful of gas.
+
+This may be a perfect time to consider checking out that interesting place a few counties over you’ve been wanting to go to.
+
+Not straying far from home has further advantages. With rising gas prices, you’ll save some cash!
+
+Yet from a safety standpoint, if someone were to get sick during a 2021 road trip, then you’d be within easy reach of returning home, quarantining, and/or seeking medical attention at home.
