@@ -24,7 +24,7 @@ So as of this update – the US has given a green light for vaccinated Americans
 
 For those who cannot get vaccinated, the CDC further offers advice on how to travel domestically as safely as possible, recommending testing and/or quarantining measures. Read the official CDC domestic travel guidance here.
 
-### **Consider a Staycation in 2021**
+### Consider a Staycation in 2021- Stay close to home
 
 You don’t necessarily have to drive across the country to enjoy the fun of a road trip. Rediscover your own back yard! You likely have an inside advantage of local knowledge of some lesser-known spots that are within a tankful of gas.
 
