@@ -6,13 +6,11 @@ excerpt: This site was created to guide Californians who want to move to a more 
   state
 
 ---
-America's guide to finding the best and most affordable cities to moved/
+America's guide to finding the best and most affordable cities to moved
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+### Support my moving blog with support
 
-## Features
-
-* Available as a **theme gem** and **GitHub Pages** theme
+* Looking for travel bloggers to contribute short stories and photos
 * Clear and elegant design that can be used out of the box or as solid starting point
 * Tested in all major browsers, including **IE and Edge**
 * Built in **Service Worker** so it can work offline and on slow connections
