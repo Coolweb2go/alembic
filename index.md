@@ -28,11 +28,11 @@ I created this travel guide to help Californians looking for a new city or town 
 * Has 9 of the most popular networks as performant sharing buttons
 * Has documentation
 
-## Examples
+## My favorite travel blogs
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+Here is a list of travel blogs that I ahve been following for the last few years.
 
-* [bawejakunal.github.io](https://bawejakunal.github.io/)
+* [bawejakunal.github.io](https://www.nomadicmatt.com//)
 * [case2111.github.io](https://case2111.github.io/)
 * [karateca.org](https://www.karateca.org/)
 
