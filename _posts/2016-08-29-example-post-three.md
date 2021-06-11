@@ -15,7 +15,7 @@ feature_image: ''
 image: https://picsum.photos/2560/600?image=733
 
 ---
-### Is It Safe to Plan a 2021 Road Trip in the US amidst Lingering Pandemic Conditions?**
+#### Is It Safe to Plan a 2021 Road Trip in the US amidst Lingering Pandemic Conditions?
 
 As of April 2, 2021, the CDC clearly states:
 “People who are fully vaccinated with an FDA-authorized vaccine can travel safely within the United States.”
