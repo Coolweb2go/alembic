@@ -30,7 +30,7 @@ I created this travel guide to help Californians looking for a new city or town 
 
 ## My favorite travel blogs
 
-Here is a list of travel blogs that I ahve been following for the last few years.
+Here is a list of travel blogs that I have been following for the last few years. Read them as they have great travel tips as well.
 
 * [Nomadic Matt](https://www.nomadicmatt.com/)
 * [Adventurous Kate](https://www.adventurouskate.com//)
