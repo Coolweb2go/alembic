@@ -33,7 +33,7 @@ I created this travel guide to help Californians looking for a new city or town 
 Here is a list of travel blogs that I ahve been following for the last few years.
 
 * [Nomadic Matt](https://www.nomadicmatt.com/)
-* [case2111.github.io](https://case2111.github.io/)
+* [Adventurous Kate](https://www.adventurouskate.com//)
 * [karateca.org](https://www.karateca.org/)
 
 ## Installation
