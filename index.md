@@ -9,7 +9,8 @@ excerpt: Alembic is a starting point for [Jekyll](https://jekyllrb.com/) project
 ---
 I created this travel guide to help Californians looking for a new city or town that has affordable housing, better job opportunities, and lower cost of living.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} 
+{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %}
+
 ## Top 12 US Cities for moving
 
 * Raleigh, North Carolina
@@ -33,9 +34,9 @@ Here is a list of travel blogs that I have been following for the last few years
 * [Adventurous Kate](https://www.adventurouskate.com//)
 * [karateca.org](https://www.karateca.org/)
 
-## Installation
+### Tired of paying high rents, expensive homes, & high cost of living in California ?
 
-### Quick setup
+#### Let me help you with this guide.
 
 To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
 
