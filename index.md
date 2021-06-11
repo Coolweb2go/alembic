@@ -17,7 +17,7 @@ I created this travel guide to help Californians looking for a new city or town 
 * Austin, Texas
 * Colorado Springs, CO
 * Boston, Massachusetts
-* **Configurable colours** and typography in a single settings file
+* Portland,Oregon
 * Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
 * Solid **typographic framework** from [Sassline](https://sassline.com/)
 * Configurable navigation via a single file
