@@ -4,7 +4,7 @@ feature_text: |2-
 
   ## Best Cities toi Live in the USA
 feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
-excerpt: A demo of Markdown and HTML includes
+excerpt: Instructions on how to use this site
 aside: true
 
 ---
