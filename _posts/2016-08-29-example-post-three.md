@@ -11,7 +11,7 @@ excerpt: 'The ongoing coronavirus pandemic has made international travel difficu
 feature_text: |
   ## What states are safe to travel
   after  Covid-19 restrictions are upgraded
-feature_image: ''
+feature_image: https://sandiegophotosafari.net/wp-content/uploads/2020/12/seagull-la-jolla-cove-san-diego-photo-safari.jpg
 image: https://picsum.photos/2560/600?image=733
 
 ---
