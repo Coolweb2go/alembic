@@ -8,17 +8,9 @@ excerpt: A demo of Markdown and HTML includes
 aside: true
 
 ---
-# Heading 1
+### Best air travel apps
 
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+#### Kayak.com
 
 <small>A small element</small>
 
@@ -122,7 +114,6 @@ blockquote.innerHTML = bolden("Mr. Sullivan", blockquote.innerHTML)
 ``` html
 {% raw %}{% include video.html id="zrkcGL5H3MU" title="Siteleaf tutorial video" %}{% endraw %}
 ```
-
 
 ### Image includes
 
