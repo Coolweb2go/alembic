@@ -16,7 +16,7 @@ aside: true
 
 [**Skyscanner**](https://www.skyscanner.com/ "link here")
 
-Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
+Skyscanner is a metasearch engine that scans the internet and pulls the prices for your flight, hotel and car rental search from thousands of online travel agencies and airlines around the globe
 
 Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
