@@ -26,9 +26,9 @@ America's guide to finding the best and most affordable cities to moved
 * Has 9 of the most popular networks as performant sharing buttons
 * Has documentation
 
-## Examples
+## Check out our reviews of different US cities
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+a couple of city recommendations
 
 * [bawejakunal.github.io](https://bawejakunal.github.io/)
 * [case2111.github.io](https://case2111.github.io/)
