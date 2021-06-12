@@ -9,7 +9,7 @@ sections:
 - type: directory
   path: Destinations
   label: Destinations
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - destinations-posts
