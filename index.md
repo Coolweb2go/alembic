@@ -37,7 +37,7 @@ Here is a list of travel blogs that I have been following for the last few years
 
 #### Let me help you with this guide.
 
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
+Readers.We will populating new content on this blog soon.:
 
 * ⚗️🍨 Vanilla Jekyll starter kit  
   [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
@@ -61,9 +61,8 @@ To give you a running start I've put together some starter kits that you can dow
 
 ### Looking for a long-distance mover from Southern California to Texas, Florida, etc
 
-![Check out this reliable moving company in Southern California!]
-[(https://socalelitemovers.com/wp-content/uploads/2021/03/socal-elite-movers-long-distance-moving.jpg/)
-[***Socal Elite Movers in California***](
+
+[**Socal Elite Movers in California**](
 https://socalelitemovers.com/)
 
 #### Did you know that Texas is the Top Destination State for Californians ?
