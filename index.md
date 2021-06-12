@@ -19,8 +19,8 @@ I created this travel guide to help Californians looking for a new city or town 
 * Portland,Oregon
 * Denver, Colorado
 * Fayetteville,Arkansas
-* Built in live search using JavaScript
-* **Contact form** built in using [Formspree](https://formspree.io/)
+* Dallas-Forth Worth, Texas
+* [Grand Rapids,Michigan](https://www.michigan.org/city/grand-rapids)
 * Designed with [**Siteleaf**](https://www.siteleaf.com/) in mind
 * Has 9 of the most popular networks as performant sharing buttons
 * Has documentation
@@ -70,7 +70,7 @@ To give you a running start I've put together some starter kits that you can dow
 
 #### Did you know that Texas is the Top Destination State for Californians ?
 
-[Read the full story here(https://www.rentcafe.com/blog/self-storage/california-effect-texas-top-destination-state-californians 
+\[Read the full story here(https://www.rentcafe.com/blog/self-storage/california-effect-texas-top-destination-state-californians
 <br>
 Of the busiest moving directions, five originate in California, and the interstate migration route that attracted the most people in 2018 was California to Texas. According to STORAGECafé, over 86,000 people chose to relocate from California to tax-free Texas during 2018. Arizona takes second place as the most welcoming state, with more than 68,000 Californian newcomers, followed by Washington, with over 55,000 people who prefer the famously cloudy state over sunny Cali.
 
