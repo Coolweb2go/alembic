@@ -21,7 +21,7 @@ I created this travel guide to help Californians looking for a new city or town 
 * Fayetteville,Arkansas
 * Dallas-Forth Worth, Texas
 * [Grand Rapids,Michigan](https://www.michigan.org/city/grand-rapids)
-* Designed with [**Siteleaf**](https://www.siteleaf.com/) in mind
+* [**Boise Idaho**](https://www.homesnacks.com/most-affordable-places-in-idaho/)
 * Has 9 of the most popular networks as performant sharing buttons
 * Has documentation
 
