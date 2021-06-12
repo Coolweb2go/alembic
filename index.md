@@ -23,7 +23,7 @@ I created this travel guide to help Californians looking for a new city or town 
 * [Grand Rapids,Michigan](https://www.michigan.org/city/grand-rapids)
 * [**Boise Idaho**](https://www.homesnacks.com/most-affordable-places-in-idaho/)
 * Sarasota, Florida
-* Has documentation
+* Raleigh, North Carolina
 
 ## My favorite travel blogs
 
