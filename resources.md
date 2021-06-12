@@ -12,7 +12,7 @@ aside: true
 
 #### Kayak.com
 
-<small>A small element</small>
+<small>Check out this site</small>
 
 [**Skyscanner**](https://www.skyscanner.com/ "link here")
 
