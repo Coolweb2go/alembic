@@ -59,14 +59,12 @@ To give you a running start I've put together some starter kits that you can dow
 4. Run `bundle exec jekyll serve` to build and serve your site
 5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
-### As a GitHub Pages remote theme
+### Looking for a long-distance mover from Southern California to Texas, Florida, etc
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic@main` to your `_config.yml` file to set the site theme
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+1.
+[![Orange Co Long Distance Movers] (https://socalelitemovers.com/wp-content/uploads/2021/03/socal-elite-movers-long-distance-moving.jpg/)
+[Socal Elite Movers in California](
+https://socalelitemovers.com/)
 
 #### Did you know that Texas is the Top Destination State for Californians ?
 
