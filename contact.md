@@ -19,14 +19,8 @@ America's guide to finding the best and most affordable cities to moved
 * Solid **typographic framework** from [Sassline](https://sassline.com/)
 * Configurable navigation via a single file
 * Modular Jekyll components
-* Post category support in the form of a single post index page grouped by category
-* Built in live search using JavaScript
-* **Contact form** built in using [Formspree](https://formspree.io/)
-* Designed with [**Siteleaf**](https://www.siteleaf.com/) in mind
-* Has 9 of the most popular networks as performant sharing buttons
-* Has documentation
 
-## Check out our reviews of different US cities
+## our reviews of different US cities
 
 a couple of city recommendations
 
