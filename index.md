@@ -22,7 +22,7 @@ I created this travel guide to help Californians looking for a new city or town 
 * Dallas-Forth Worth, Texas
 * [Grand Rapids,Michigan](https://www.michigan.org/city/grand-rapids)
 * [**Boise Idaho**](https://www.homesnacks.com/most-affordable-places-in-idaho/)
-* Has 9 of the most popular networks as performant sharing buttons
+* Sarasota, Florida
 * Has documentation
 
 ## My favorite travel blogs
