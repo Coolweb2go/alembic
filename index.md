@@ -61,15 +61,11 @@ Readers.We will populating new content on this blog soon.:
 
 ### Looking for a long-distance mover from Southern California to Texas, Florida, etc
 
-
-[**Socal Elite Movers in California**](
-https://socalelitemovers.com/)
+[**Socal Elite Movers in California**](https://socalelitemovers.com/)
 
 #### Did you know that Texas is the Top Destination State for Californians ?
 
-[Read the full story here}(https://www.rentcafe.com/blog/self-storage/california-effect-texas-top-destination-state-californians
-<br>
-Of the busiest moving directions, five originate in California, and the interstate migration route that attracted the most people in 2018 was California to Texas. According to STORAGECafé, over 86,000 people chose to relocate from California to tax-free Texas during 2018. Arizona takes second place as the most welcoming state, with more than 68,000 Californian newcomers, followed by Washington, with over 55,000 people who prefer the famously cloudy state over sunny Cali.
+\[Read the full story here\](https://www.rentcafe.com/blog/self-storage/california-effect-texas-top-destination-state-californians <br> Of the busiest moving directions, five originate in California, and the interstate migration route that attracted the most people in 2018 was California to Texas. According to STORAGECafé, over 86,000 people chose to relocate from California to tax-free Texas during 2018. Arizona takes second place as the most welcoming state, with more than 68,000 Californian newcomers, followed by Washington, with over 55,000 people who prefer the famously cloudy state over sunny Cali.
 
 ### Share your stories of your move here .
 
