@@ -34,28 +34,9 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 > A simple blockquote
 
-Some HTML...
 
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
 
-...CSS...
 
-``` css
-blockquote {
-  text-align: center;
-  font-weight: bold;
-}
-blockquote footer {
-  font-size: .8rem;
-}
-```
 
 ...and JavaScript
 
