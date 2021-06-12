@@ -12,7 +12,7 @@ aside: true
 
 #### Kayak.com
 
-<small>Check out this site</small>
+<large>Skyscanner</large>
 
 [**Skyscanner**](https://www.skyscanner.com/ "link here")
 
@@ -33,10 +33,6 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 5. Item five
 
 > A simple blockquote
-
-
-
-
 
 ...and JavaScript
 
