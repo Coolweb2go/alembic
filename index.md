@@ -4,6 +4,7 @@ feature_text: "## Best Cities toi Live in the USA"
 feature_image: https://americabyrailandbus.files.wordpress.com/2020/07/san-francisco-market-street-cars.jpg
 excerpt: "“Leaving the Bay Area is the best thing you can do right now, if you have
   a dream.”"
+published: false
 
 ---
 I created this travel guide to help Californians looking for a new city or town that has affordable housing, better job opportunities, and lower cost of living.
